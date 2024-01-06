@@ -1,0 +1,6 @@
+A faire : 
+ - faire un fichier de fonction
+ - ajouter le re calcul du total journalier apres la suppression d'un apport journalier 
+ - entrer tout les aliment dans la base de données
+
+ 
