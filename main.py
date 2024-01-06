@@ -187,15 +187,6 @@ while not quit :
     elif (choix == 8) : 
         print("Date : {}".format(datetime.now()) )
 
-
     else : 
         print("Choix invalide")
-
-
-
-
-### verifier que l'alliment n'existe pas avant d'en rajouter un aux apport nutri
-### gestion d'un choix invalide dans le menue de nav
-### problème d'enregistrement dans les DB a cause de la date
-
-        
+                
